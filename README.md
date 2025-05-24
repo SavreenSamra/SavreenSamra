@@ -9,7 +9,7 @@ Switching to Computer Science after spending half a decade studying Kinesiology,
 
 However, within my first few months of studying Computer Science, I fell in love with it. 
 
-The **joy I gained everytime I solved a complex problem** made me keep reaching for more and more challenging problems, even though it can get challenging and even frustrating at times.  
+The **joy I gained everytime I solved a complex problem** made me keep reaching for more and more problems, even though it can get challenging and even frustrating at times.  
 
 > This is to say, **it is never too late to learn something, especially coding!** 
 >
@@ -20,8 +20,7 @@ The **joy I gained everytime I solved a complex problem** made me keep reaching 
 ## Contact Information: ##
 To find more about my professional background, please consider checking out my LinkedIn profile. This is also where you can reach me for any inquiries. I'm always open to making new connections!
 
-[LinkedIn Link](https://www.linkedin.com/in/savreensamra/). 
-
+[LinkedIn Link](https://www.linkedin.com/in/savreensamra/)
 <br>
 <br>
 
@@ -34,6 +33,8 @@ To find more about my professional background, please consider checking out my L
 
 ## Top Repositories: 
 [![Sudoku_Solver](https://github-readme-stats.vercel.app/api/pin/?username=SavreenSamra&repo=Sudoku_Solver)](https://github.com/anuraghazra/github-readme-stats) 
+<br>
+<br>
  
 
 

@@ -9,9 +9,9 @@ Switching to Computer Science after spending half a decade studying Kinesiology,
 
 However, within my first few months of studying Computer Science, I fell in love with it. 
 
-The **joy I gained everytime I solved a complex problem** made me keep reaching for more and more challenging problems, even though it can get challenging and even frustrating at times.   
-
-
+The **joy I gained everytime I solved a complex problem** made me keep reaching for more and more challenging problems, even though it can get challenging and even frustrating at times.  
+<br>
+<br>
 
 This is to say, **it is never too late to learn something, especially coding!** 
 
@@ -25,16 +25,16 @@ To find more about my professional background, please consider checking out [my 
 This is also where you can reach me for any inquiries. I'm always open to making new connections!  
 
 
+## My GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=SavreenSamra&theme=vue-dark)](https://git.io/streak-stats)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavreenSamra&hide_progress=true&theme=vue-dark)  
+  
+    
+      
 ## Top Repositories: 
 [![Sudoku_Solver](https://github-readme-stats.vercel.app/api/pin/?username=SavreenSamra&repo=Sudoku_Solver)](https://github.com/anuraghazra/github-readme-stats)  
 
-
-
-## My GitHub Stats:
-[![Savreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=SavreenSamra&theme=vue-dark&show_icons=true&hide_title=true&hide_rank=true&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=SavreenSamra&theme=vue-dark)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavreenSamra&hide_progress=true&theme=vue-dark)
 
 
 

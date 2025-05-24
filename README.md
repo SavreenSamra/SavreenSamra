@@ -10,11 +10,11 @@ Switching to Computer Science after spending half a decade studying Kinesiology,
 However, within my first few months of studying Computer Science, I fell in love with it. 
 
 The **joy I gained everytime I solved a complex problem** made me keep reaching for more and more problems, even though it can get challenging and even frustrating at times.  
+<br>
 
 > This is to say, **it is never too late to learn something, especially coding!** 
 >
 > I chose to go through the traditional route and pursue a degree, but there are numerous online resources. **Create what it most interesting to you, and you will eventually gain all the knowledge you need**, so explore and have fun with it!
-<br>
 <br>
 
 ## Contact Information: ##

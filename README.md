@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=22&letterSpacing=0.1rem&pause=1000&color=07952E&background=E4B4FF00&width=435&lines=Welcome!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=22&letterSpacing=0.1rem&pause=1000&color=07952E&background=E4B4FF00&width=435&lines=Welcome!&repeat=Infinity)](https://git.io/typing-svg)
 
 Nice to meet you, my name is **Savreen Samra**!
 <br>
@@ -26,6 +26,8 @@ To find more about my professional background, please consider checking out my L
 
 ## My GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SavreenSamra&theme=vue-dark)](https://git.io/streak-stats)  
+
+![Metrics](https://metrics.lecoq.io/Calender?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&calendar=false&calendar.limit=1&config.timezone=America%2FToronto&theme=vue-dark&card_width=495)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavreenSamra&hide_progress=true&theme=vue-dark&card_width=495)
 <br>

@@ -3,6 +3,7 @@
 Nice to meet you, my name is **Savreen Samra**!
 <br>
 <br>
+
 ## My Coding Experience: ##
 Switching to Computer Science after spending half a decade studying Kinesiology, I was scared. Coding was brand new to me and seemed so intimidating. 
 
@@ -15,20 +16,25 @@ The **joy I gained everytime I solved a complex problem** made me keep reaching 
 > I chose to go through the traditional route and pursue a degree, but there are numerous online resources. **Create what it most interesting to you, and you will eventually gain all the knowledge you need**, so explore and have fun with it!
 <br>
 <br>
-## Contact Information: ##
-To find more about my professional background, please consider checking out [my LinkedIn profile](https://www.linkedin.com/in/savreensamra/). 
 
-This is also where you can reach me for any inquiries. I'm always open to making new connections!
+## Contact Information: ##
+To find more about my professional background, please consider checking out my LinkedIn profile. This is also where you can reach me for any inquiries. I'm always open to making new connections!
+
+[LinkedIn Link](https://www.linkedin.com/in/savreensamra/). 
+
 <br>
 <br>
+
 ## My GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=SavreenSamra&theme=vue-dark)](https://git.io/streak-stats)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavreenSamra&hide_progress=true&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SavreenSamra&hide_progress=true&theme=vue-dark&card_width=495)
 <br>
-<br>   
+<br>  
+
 ## Top Repositories: 
-[![Sudoku_Solver](https://github-readme-stats.vercel.app/api/pin/?username=SavreenSamra&repo=Sudoku_Solver)](https://github.com/anuraghazra/github-readme-stats)  
+[![Sudoku_Solver](https://github-readme-stats.vercel.app/api/pin/?username=SavreenSamra&repo=Sudoku_Solver)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 
 
 

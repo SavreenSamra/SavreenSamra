@@ -32,7 +32,7 @@ To find more about my professional background, please consider checking out my L
 <br>  
 
 ## Top Repositories: 
-[![Sudoku_Solver](https://github-readme-stats.vercel.app/api/pin/?username=SavreenSamra&repo=Sudoku_Solver)](https://github.com/anuraghazra/github-readme-stats) 
+[Sudoku_Solver](https://github.com/SavreenSamra/Sudoku_Solver)
 <br>
 <br>
  
